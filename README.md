@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *Background Color Changer*
 
-Submitted by: **Your Name Here**
+Submitted by: **Ria Kapoor**
 
-**Name of your app** is an app that... [TODO] 
+**The Background Color Changer** is an app that changes the background to a random color after the user presses the "Change Background" button. In addition, the app lists some of the personal info of the developer, including the developer's name, school, and aspirational job. 
 
-Time spent: **X** hours spent in total
+Time spent: 1 hour spent in total
 
 ## Required Features
 
@@ -12,18 +12,15 @@ The following **required** functionality is completed:
 
 - [ ] Users are see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
- 
-## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+I faced a challenge when uploading my files to GitHub. I'm familiar with GitLab but hadn't had much experience creating a local repository and uploading it to a GitHub repository. I struggled a bit with this but was eventually able to upload my project to GitHub.
 
 ## License
 
