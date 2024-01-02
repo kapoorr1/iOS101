@@ -13,6 +13,12 @@ The following **required** functionality is completed:
 - [ ] Users are see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
 
+## Video Walkthrough
+
+<a href="https://drive.google.com/file/d/1V5Vh2mjDonjVkrKOQDOg72gWUSt2e1mk/view?usp=share_link">
+    <img style="max-width:300px;">
+</a>
+
 ## App Brainstorming (Step 4)
 
 - Example App: **Slack**
